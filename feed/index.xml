@@ -10,7 +10,7 @@
 <channel>
 	<title>CV</title>
 	<atom:link href="http://pritam004.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>http://pritam004.github.io</link>
+	<link>http://pritam004.github.io/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 05 Jan 2022 08:34:08 +0000</lastBuildDate>
 	<language>en-US</language>
